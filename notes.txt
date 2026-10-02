@@ -1,0 +1,7 @@
+Space Complexity:
+to store something in java, we use variable, and multiple data types
+variable defined tells us what the space Complexity is
+memory fills up to store data
+
+check files 1 and 2 to solve programs with extra variables assigned which are rewritten as simplified programs
+to reduce space and time 
